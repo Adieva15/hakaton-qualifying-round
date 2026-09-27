@@ -10,7 +10,7 @@ import threading
 
 ai_token=''
 
-bot_token = '8429360617:AAEq7tbtVLbQ2P7Bx92vKW8-4gcnIW-mBGs'
+bot_token = ''
 
 logging.basicConfig( format='%(asctime)s - %(levelname)s - %(message)s',
     level = logging.INFO
